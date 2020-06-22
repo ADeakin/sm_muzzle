@@ -13,10 +13,10 @@ ArrayList:muzzledSteamIDs;
 public Plugin myinfo =
 {
 	name = "Muzzle / Perma mute",
-	author = "Emilio",
+	author = "",
 	description = "Auto mutes people and persists through maps, server restarts and sm_unmute",
 	version = "1.0",
-	url = "https://keet.pw/"
+	url = ""
 };
 
 public void OnPluginStart()
